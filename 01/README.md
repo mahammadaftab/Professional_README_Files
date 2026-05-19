@@ -212,9 +212,9 @@ GitHub Actions
 
 # 📈 GITHUB ANALYTICS 📈
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F5FF&icon_color=7B68EE&text_color=FFFFFF&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahammadaftab&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadaftab&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=FFFFFF&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahammadaftab&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -224,7 +224,7 @@ GitHub Actions
 
 # 🔥 GITHUB STREAK 🔥
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadaftab&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=7B68EE&fire=00F5FF&currStreakLabel=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=mahammadaftab&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -234,7 +234,7 @@ GitHub Actions
 
 # 🏆 GITHUB TROPHIES 🏆
 
-<img src="https://github-profile-trophy.vercel.app/?username=mahammadaftab&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mahammadaftab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
@@ -242,9 +242,9 @@ GitHub Actions
 
 <div align="center">
 
-# 📡 CONTRIBUTION GRAPH 📡
+# 📊 ACTIVITY GRAPH 📊
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammadaftab&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=7B68EE&point=FFFFFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammadaftab&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
