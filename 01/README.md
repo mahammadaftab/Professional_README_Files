@@ -212,9 +212,9 @@ GitHub Actions
 
 # 📈 GITHUB ANALYTICS 📈
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B68EE&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F5FF&icon_color=7B68EE&text_color=FFFFFF&border_radius=15"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadaftab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadaftab&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=FFFFFF&border_radius=15"/>
 
 </div>
 
