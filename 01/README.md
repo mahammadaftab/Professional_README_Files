@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=MOHAMMAD%20AFTAB&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:00F5FF&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Generative%20AI%20Enthusiast&descAlignY=60&descSize=18" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:00F5FF&text=MOHAMMAD%20AFTAB&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Generative%20AI%20Enthusiast&descAlignY=58&animation=fadeIn"/>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Generative+AI+Explorer+%F0%9F%A7%A0;MERN+Stack+Developer+%F0%9F%92%BB;Cloud+%26+Blockchain+Enthusiast+%E2%9A%A1;Building+Futuristic+Digital+Experiences+%F0%9F%94%A5" alt="Typing SVG" />
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=mahammadaftab&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Generative+AI+Explorer+%F0%9F%A7%A0;MERN+Stack+Developer+%F0%9F%92%BB;Cloud+%26+Blockchain+Enthusiast+%E2%9A%A1;Building+Futuristic+Digital+Experiences+%F0%9F%94%A5" />
 
-<a href="https://github.com/mahammadaftab">
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mahammadaftab&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
 <img src="https://img.shields.io/github/followers/mahammadaftab?label=Followers&style=for-the-badge&color=00F5FF&labelColor=090909"/>
-</a>
 
-<a href="https://github.com/mahammadaftab">
-<img src="https://img.shields.io/github/stars/mahammadaftab?label=Stars&style=for-the-badge&color=7B68EE&labelColor=090909"/>
-</a>
+<img src="https://img.shields.io/github/stars/mahammadaftab?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7B68EE&labelColor=090909"/>
 
 </div>
 
@@ -20,82 +20,91 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/6e/0f/6d/6e0f6d53f9c43a1f4d7f5a5f9d9d8fbb.gif" width="100%" />
+# ⚡ NEURAL PROFILE MATRIX ⚡
 
 </div>
 
-# <div align="center">⚡ NEURAL PROFILE MATRIX ⚡</div>
+```yaml
+Name: Mohammad Aftab
+Role: AI Engineer | Full Stack Developer | Generative AI Enthusiast
+Location: India
+Specialization:
+  - MERN Stack Development
+  - Generative AI
+  - Machine Learning
+  - Cloud & DevOps
+  - Blockchain Development
 
-<div align="center">
-
-```diff
-+ Name      : Mohammad Aftab
-+ Role      : AI Engineer | Full Stack Developer | Generative AI Enthusiast
-+ Location  : India
-+ Focus     : MERN Stack • Generative AI • Cloud • Blockchain • ML
-+ Mission   : Building futuristic AI-powered scalable systems
-+ Learning  : Kubernetes • Advanced AI Agents • Cloud Architecture
-+ Status    : Available for collaboration & innovation
+Current Focus:
+  - AI Applications
+  - Cloud Native Systems
+  - Full Stack Platforms
+  - Scalable Backend Architectures
 ```
 
-</div>
-
 ---
-
-# <div align="center">🌌 CONNECT WITH ME 🌌</div>
 
 <div align="center">
 
+# 🌐 CONNECT WITH ME 🌐
+
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-ff006e?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-ff006e?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/users/YOUR_DISCORD">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Gmail-00F5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-7B68EE?style=for-the-badge&logo=firefox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-7B68EE?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# <div align="center">🧠 ABOUT ME 🧠</div>
+<div align="center">
 
-<table align="center">
+# 🧠 ABOUT ME 🧠
+
+</div>
+
+<table>
 <tr>
-<td width="50%">
+<td width="55%">
 
-### 🚀 Developer DNA
+### 🚀 Professional Summary
 
-- 🤖 Passionate about **Artificial Intelligence & Generative AI**
-- ⚡ Building scalable **MERN Stack Applications**
-- ☁️ Exploring **AWS • Docker • Kubernetes**
-- 🔐 Interested in **Cybersecurity & Blockchain**
-- 🧠 Learning advanced **Machine Learning Systems**
-- 🌌 Love futuristic UI/UX and cyberpunk aesthetics
-- 🔥 Open-source contributor and tech enthusiast
-- 💡 Always building innovative digital experiences
+- 🤖 Passionate AI Engineer focused on futuristic technologies
+- ⚡ Full Stack MERN Developer building scalable applications
+- ☁️ Exploring AWS, Docker & Kubernetes ecosystems
+- 🔗 Interested in Blockchain & Web3 technologies
+- 🧠 Learning advanced Machine Learning systems
+- 🔥 Open-source enthusiast & continuous learner
+- 💡 Building innovative AI-powered digital experiences
 
 </td>
 
-<td width="50%">
+<td width="45%">
+
+<div align="center">
 
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%" />
+
+</div>
 
 </td>
 </tr>
@@ -103,42 +112,84 @@
 
 ---
 
-# <div align="center">⚔️ TECH STACK ⚔️</div>
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,aws,git,github,linux,vscode,html,css,tailwind,redux,firebase,tensorflow,pytorch,solidity&theme=dark" />
+# ⚔️ TECH STACK ⚔️
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,aws,git,github,linux,vscode,html,css,tailwind,redux,firebase,tensorflow,pytorch,solidity&theme=dark"/>
 
 </div>
 
 ---
 
-# <div align="center">🛠️ CORE TECHNOLOGIES 🛠️</div>
-
 <div align="center">
 
-| Category | Technologies |
-|----------|--------------|
-| 💻 Frontend | React.js • Next.js • HTML5 • CSS3 • Tailwind CSS |
-| ⚙️ Backend | Node.js • Express.js • REST APIs • Authentication |
-| 🗄️ Database | MongoDB • PostgreSQL • MySQL |
-| 🤖 AI/ML | Generative AI • TensorFlow • PyTorch • NLP |
-| ☁️ Cloud | AWS • Docker • Kubernetes |
-| 🔗 Blockchain | Solidity • Smart Contracts • Web3 |
-| 🧰 Tools | Git • GitHub • Linux • VS Code |
+# 🛠️ CORE TECHNOLOGIES 🛠️
 
 </div>
 
----
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-# <div align="center">📊 SKILL MATRIX 📊</div>
+### 💻 Frontend
+
+React.js  
+Next.js  
+HTML5  
+CSS3  
+Tailwind CSS  
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend
+
+Node.js  
+Express.js  
+REST APIs  
+Authentication  
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️ Database
+
+MongoDB  
+PostgreSQL  
+MySQL  
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️ DevOps
+
+AWS  
+Docker  
+Kubernetes  
+GitHub Actions  
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-### 🚀 Full Stack Development
+# 📊 SKILL MATRIX 📊
+
+</div>
+
+### 🚀 Development Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-95%25-00F5FF?style=for-the-badge)
-![React](https://img.shields.io/badge/React-93%25-7B68EE?style=for-the-badge)
+![React](https://img.shields.io/badge/React.js-93%25-7B68EE?style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/Node.js-90%25-00F5FF?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-88%25-7B68EE?style=for-the-badge)
 
@@ -146,22 +197,20 @@
 
 ![Python](https://img.shields.io/badge/Python-92%25-00F5FF?style=for-the-badge)
 ![GenerativeAI](https://img.shields.io/badge/Generative_AI-90%25-7B68EE?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-82%25-00F5FF?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-80%25-7B68EE?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-84%25-00F5FF?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-82%25-7B68EE?style=for-the-badge)
 
 ### ☁️ Cloud / DevOps
 
-![AWS](https://img.shields.io/badge/AWS-85%25-00F5FF?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-87%25-7B68EE?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-86%25-00F5FF?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-88%25-7B68EE?style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-78%25-00F5FF?style=for-the-badge)
-
-</div>
 
 ---
 
-# <div align="center">📈 GITHUB ANALYTICS 📈</div>
-
 <div align="center">
+
+# 📈 GITHUB ANALYTICS 📈
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B68EE&text_color=FFFFFF"/>
 
@@ -171,9 +220,9 @@
 
 ---
 
-# <div align="center">🔥 GITHUB STREAK 🔥</div>
-
 <div align="center">
+
+# 🔥 GITHUB STREAK 🔥
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadaftab&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=7B68EE&fire=00F5FF&currStreakLabel=FFFFFF"/>
 
@@ -181,19 +230,19 @@
 
 ---
 
-# <div align="center">🏆 GITHUB TROPHIES 🏆</div>
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mahammadaftab&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+# 🏆 GITHUB TROPHIES 🏆
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahammadaftab&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4"/>
 
 </div>
 
 ---
 
-# <div align="center">📡 CONTRIBUTION GRAPH 📡</div>
-
 <div align="center">
+
+# 📡 CONTRIBUTION GRAPH 📡
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammadaftab&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=7B68EE&point=FFFFFF"/>
 
@@ -201,9 +250,9 @@
 
 ---
 
-# <div align="center">🐍 CONTRIBUTION SNAKE 🐍</div>
-
 <div align="center">
+
+# 🐍 CONTRIBUTION SNAKE 🐍
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
@@ -211,39 +260,78 @@
 
 ---
 
-# <div align="center">🚀 FEATURED PROJECTS 🚀</div>
-
 <div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🛒 AI E-Commerce Platform | Advanced MERN stack e-commerce with AI features | MERN • AI |
-| 🤖 Generative AI Assistant | AI chatbot with LLM integration | Python • OpenAI |
-| ☁️ Cloud DevOps System | Docker + Kubernetes deployment infrastructure | AWS • Docker |
-| 🔗 Blockchain DApp | Smart contract powered decentralized app | Solidity • Web3 |
-| 📊 AI Analytics Dashboard | Futuristic analytics dashboard | React • Node.js |
-| 🧠 ML Prediction Engine | Machine learning prediction system | TensorFlow • Python |
+# 🚀 FEATURED PROJECTS 🚀
 
 </div>
 
----
+<table>
+<tr>
+<td width="50%">
 
-# <div align="center">🧬 AI / ML / BLOCKCHAIN LAB 🧬</div>
+### 🛒 AI E-Commerce Platform
+Advanced MERN stack platform with AI-powered features.
+
+**Tech Stack:**  
+React • Node.js • MongoDB • AI APIs
+
+</td>
+
+<td width="50%">
+
+### 🤖 Generative AI Assistant
+Intelligent AI assistant using LLM integrations.
+
+**Tech Stack:**  
+Python • OpenAI • FastAPI • Vector DB
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ Cloud DevOps Infrastructure
+Containerized cloud-native deployment system.
+
+**Tech Stack:**  
+AWS • Docker • Kubernetes • CI/CD
+
+</td>
+
+<td width="50%">
+
+### 🔗 Blockchain DApp
+Secure decentralized blockchain application.
+
+**Tech Stack:**  
+Solidity • Web3 • Smart Contracts
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
+# 🧬 AI • ML • BLOCKCHAIN LAB 🧬
+
+</div>
+
 <table>
 <tr>
+
 <td align="center" width="33%">
 
 ### 🤖 Artificial Intelligence
 
-- Generative AI
-- LLM Applications
-- AI Agents
-- NLP Systems
-- Prompt Engineering
-- AI Automation
+Generative AI  
+AI Agents  
+Prompt Engineering  
+NLP Systems  
+LLM Applications  
 
 </td>
 
@@ -251,12 +339,11 @@
 
 ### 🧠 Machine Learning
 
-- TensorFlow
-- PyTorch
-- Neural Networks
-- Deep Learning
-- Computer Vision
-- Predictive Systems
+TensorFlow  
+PyTorch  
+Neural Networks  
+Deep Learning  
+Computer Vision  
 
 </td>
 
@@ -264,86 +351,84 @@
 
 ### 🔗 Blockchain
 
-- Smart Contracts
-- Solidity
-- Web3 Development
-- Decentralized Apps
-- Crypto Ecosystem
-- Blockchain Security
+Smart Contracts  
+Web3 Development  
+DApps  
+Solidity  
+Blockchain Security  
 
 </td>
+
 </tr>
 </table>
 
+---
+
+<div align="center">
+
+# ☁️ CLOUD & DEVOPS ☁️
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,githubactions&theme=dark"/>
+
 </div>
 
 ---
 
-# <div align="center">☁️ CLOUD & DEVOPS ☁️</div>
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,githubactions&theme=dark" />
+# 🛣️ 2026 ROADMAP 🛣️
 
 </div>
-
----
-
-# <div align="center">🛣️ 2026 ROADMAP 🛣️</div>
-
-<div align="center">
 
 ```text
-[██████████░░░░░░░░] Advanced Kubernetes
-[██████████████░░░░] AI Agents Development
-[████████████░░░░░░] Cloud Architecture
+[████████████░░░░░░] Advanced Kubernetes
+[██████████████░░░░] AI Agents Architecture
+[█████████████░░░░░] Cloud Security
 [████████████████░░] Full Stack Scaling
-[███████████░░░░░░░] Blockchain Security
+[████████████░░░░░░] Blockchain Systems
 [███████████████░░░] Advanced Machine Learning
 ```
 
-</div>
-
 ---
-
-# <div align="center">🎓 ACHIEVEMENTS & CERTIFICATIONS 🎓</div>
 
 <div align="center">
 
-🏆 Oracle University — Generative AI  
-🏆 Full Stack MERN Development  
-🏆 AI/ML Enthusiast  
-🏆 Cloud & DevOps Learner  
-🏆 Open Source Contributor  
-🏆 GitHub Developer Community Member  
+# 🎓 ACHIEVEMENTS & CERTIFICATIONS 🎓
 
 </div>
 
+- 🏆 Oracle University — Generative AI
+- 🏆 MERN Stack Full Stack Development
+- 🏆 AI & Machine Learning Learning Path
+- 🏆 Cloud & DevOps Engineering
+- 🏆 Open Source Contributor
+- 🏆 GitHub Developer Community
+
 ---
 
-# <div align="center">🎧 SPOTIFY / DISCORD / PORTFOLIO 🎧</div>
-
 <div align="center">
+
+# 🎧 DIGITAL SPACE 🎧
 
 <a href="https://spotify.com">
-<img src="https://img.shields.io/badge/Spotify-111111?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
+  <img src="https://img.shields.io/badge/Spotify-111111?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
 </a>
 
 <a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-# <div align="center">💬 RANDOM DEV QUOTE 💬</div>
-
 <div align="center">
+
+# 💬 RANDOM DEV QUOTE 💬
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
@@ -351,32 +436,33 @@
 
 ---
 
-# <div align="center">⚡ CURRENT FOCUS ⚡</div>
-
 <div align="center">
 
-```yaml
-Currently_Building:
-  - AI SaaS Applications
-  - MERN Stack Platforms
-  - Generative AI Systems
-  - Cloud Native Infrastructure
-  - Blockchain Integrated Solutions
-
-Currently_Learning:
-  - Advanced Kubernetes
-  - AI Agents Architecture
-  - Cloud Security
-  - Distributed Systems
-```
+# ⚡ CURRENT FOCUS ⚡
 
 </div>
 
+```yaml
+Building:
+  - AI SaaS Applications
+  - Full Stack Platforms
+  - Cloud Native Systems
+  - AI Automation Tools
+
+Learning:
+  - Advanced Kubernetes
+  - AI Agents Architecture
+  - Distributed Systems
+  - Cloud Security
+```
+
 ---
 
-# <div align="center">💀 CYBERPUNK TERMINAL 💀</div>
-
 <div align="center">
+
+# 💀 CYBERPUNK TERMINAL 💀
+
+</div>
 
 ```bash
 > Initializing Developer Profile...
@@ -387,24 +473,22 @@ Currently_Learning:
 > Welcome To Mohammad Aftab's Digital Universe 🚀
 ```
 
-</div>
-
 ---
-
-# <div align="center">📫 CONTACT & SUPPORT 📫</div>
 
 <div align="center">
 
+# 📫 CONTACT & SUPPORT 📫
+
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Contact_Me-00F5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Contact_Me-00F5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://github.com/mahammadaftab">
-<img src="https://img.shields.io/badge/GitHub_Profile-7B68EE?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Profile-7B68EE?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://buymeacoffee.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Support-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
 </a>
 
 </div>
@@ -413,8 +497,8 @@ Currently_Learning:
 
 <div align="center">
 
-## ⚡ "Code. Create. Innovate. Repeat." ⚡
+# ⚡ CODE • CREATE • INNOVATE ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f0c29,50:302b63,100:00F5FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f0c29,50:302b63,100:00F5FF"/>
 
 </div>
