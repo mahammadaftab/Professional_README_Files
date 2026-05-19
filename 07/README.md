@@ -1,77 +1,362 @@
-<!-- ========================== MAHAMMAD AFTAB | FUTURISTIC PROFILE README ========================== -->
+<!-- ========================== FUTURISTIC GITHUB PROFILE README ========================== -->
 
 <div align="center">
 
-<!-- 8. FUTURISTIC DEVELOPER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:9D00FF,100:00FFA3&height=200&section=header&text=MAHAMMAD%20AFTAB&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20GenAI%20Architect&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:9D00FF,100:00FFA3&height=220&section=header&text=MAHAMMAD%20AFTAB&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20GenAI%20Architect&descAlignY=58&descAlign=50" width="100%" />
 
-<!-- 4. ANIMATED TYPING TEXT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Building+the+Future+with+AI+%2B+Code;MERN+Stack+%7C+Generative+AI+%7C+Cloud+Native;LLMs+%7C+Docker+%7C+Kubernetes+%7C+Blockchain;Full+Stack+%E2%86%92+AI+Engineering+%E2%86%92+Web3;Shipping+Production+Grade+AI+Systems+Daily" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Building+the+Future+with+AI+%2B+Code;MERN+Stack+%7C+Generative+AI+%7C+Cloud+Native;LLMs+%7C+Docker+%7C+Kubernetes+%7C+Blockchain;Full+Stack+Developer+%E2%86%92+AI+Engineer;Shipping+Production+Grade+AI+Systems" />
 
-<!-- 3. MODERN BADGES USING SHIELDS.IO -->
-<p>
-  <img src="https://img.shields.io/badge/AI_Engineer-00F5FF?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/Full_Stack_Dev-9D00FF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/GenAI_Specialist-00FFA3?style=for-the-badge&logo=tensorflow&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloud_Native-FF6B00?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
+<br><br>
 
-<!-- 5. PROFILE VIEWS COUNTER -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mahammadaftab&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mahammadaftab?style=for-the-badge&color=9D00FF&labelColor=black" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/mahammadaftab?style=for-the-badge&color=00FFA3&labelColor=black" alt="Stars" />
-</p>
+<img src="https://img.shields.io/badge/AI_ENGINEER-00F5FF?style=for-the-badge&logo=openai&logoColor=black" />
+<img src="https://img.shields.io/badge/FULL_STACK_DEV-9D00FF?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/GENAI_SPECIALIST-00FFA3?style=for-the-badge&logo=tensorflow&logoColor=black" />
+<img src="https://img.shields.io/badge/CLOUD_NATIVE-FF6B00?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
-<!-- 6. SOCIAL MEDIA ICONS WITH CLICKABLE LINKS -->
-<p>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://kaggle.com/your-kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://leetcode.com/your-leetcode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-</p>
+<br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://komarev.com/ghpvc/?username=mahammadaftab&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" />
+
+<img src="https://img.shields.io/github/followers/mahammadaftab?style=for-the-badge&color=9D00FF&labelColor=black" />
+
+<img src="https://img.shields.io/github/stars/mahammadaftab?style=for-the-badge&color=00FFA3&labelColor=black" />
 
 </div>
 
-<!-- NEON STYLE HEADING + BEAUTIFUL SECTION DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+---
 
-<h2 align="center">⚡ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 7. PROFESSIONAL INTRO <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ⚡</h2>
+# 🌌 CONNECT WITH ME
 
 <div align="center">
-<table border="0">
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/your-twitter">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://kaggle.com/your-kaggle">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/your-leetcode">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="mailto:your.email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+---
+
+# ⚡ PROFESSIONAL INTRO
+
+<div align="center">
+
+<table>
 <tr>
-<td width="50%">
+
+<td width="50%" align="left">
 
 ```javascript
 const aftab = {
     name: "Mahammad Aftab",
+
     role: "AI Engineer | Full Stack Developer",
+
     location: "India 🇮🇳",
-    focus: ["Generative AI", "LLMOps", "MERN + Cloud"],
+
+    focus: [
+        "Generative AI",
+        "LLMOps",
+        "MERN Stack",
+        "Cloud Native"
+    ],
+
     currentWork: "Building Production-Grade AI Agents",
-    funFact: "I turn caffeine into neural networks ☕→🤖",
+
+    learning: [
+        "GenAI",
+        "Blockchain",
+        "Kubernetes",
+        "Advanced Backend Systems"
+    ],
+
+    funFact: "I turn caffeine into neural networks ☕ → 🤖",
+
     lifeMotto: "Code. Train. Deploy. Scale. Repeat."
 };
+```
 
-</td> <td width="50%"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"> </td> </tr> </table> </div><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"><h2 align="center">🚀 9. ABOUT ME 🚀</h2><div align="center"> <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
+</td>
 
-<br clear="right"/>
+<td width="50%" align="center">
 
-</div> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"> <h2 align="center">🛠️ 10. ANIMATED TECH STACK 🛠️</h2> <div align="center"> <h3>⚡ AI/ML & Generative AI Stack</h3> <p> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Vector_DB-00F5FF?style=for-the-badge&logo=pinecone&logoColor=black" /> </p> <h3>🌐 MERN Stack & Full Stack</h3> <p> <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,redux,tailwind,nextjs&theme=dark" /> </p> <h3>☁️ Cloud & DevOps</h3> <p> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,nginx,grafana,prometheus&theme=dark" /> </p> <h3>⛓️ Blockchain & Web3</h3> <p> <img src="https://skillicons.dev/icons?i=solidity,ethereum,ipfs&theme=dark" /> <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" /> <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" /> </p> <h3>🔧 Tools & Platforms</h3> <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,bash,vim&theme=dark" /> </p> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500"> </div> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"> <h2 align="center">📊 11. SKILL PROGRESS BARS 📊</h2> <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
 
-</div> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"> <h2 align="center">📈 12. GITHUB STATS | 13. STREAK STATS | 14. TOP LANGUAGES 📈</h2> <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00F5FF&title_color=00F5FF&icon_color=9D00FF&text_color=ffffff&bg_color=0D1117" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadaftab&layout=compact&langs_count=10&theme=tokyonight&border_color=9D00FF&title_color=9D00FF&text_color=ffffff&bg_color=0D1117" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadaftab&theme=tokyonight&border=00FFA3&stroke=00FFA3&ring=00F5FF&fire=FF6B00&currStreakLabel=00F5FF&background=0D1117" alt="GitHub Streak" /> </div> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"> <h2 align="center">🏆 16. TROPHIES SECTION 🏆</h2> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mahammadaftab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" /> </div> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"> <h2 align="center">📊 15. CONTRIBUTION GRAPH 📊</h2> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammadaftab&bg_color=0D1117&color=00F5FF&line=9D00FF&point=00FFA3&area=true&hide_border=true" /> </div> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"> <h2 align="center">⚡ 17. ACTIVITY GRAPH ⚡</h2> <div align="center"> <img src="https://github.com/mahammadaftab/mahammadaftab/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </div> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"> <h2 align="center">🚀 23. FEATURED PROJECTS 🚀</h2> <div align="center"> <table> <tr> <td width="50%"> <h3 align="center">🧠 AutoGen AI Agent Platform</h3> <div align="center"> <a href="https://github.com/mahammadaftab/project1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahammadaftab&repo=project1&theme=tokyonight&border_color=00F5FF&bg_color=0D1117" /> </a> <p><strong>Multi-Agent LLM System</strong> - Production RAG, Fine-tuning, Vector DBs</p> <p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-00F5FF?style=flat-square&logo=pinecone&logoColor=black" /> </p> </div> </td> <td width="50%"> <h3 align="center">⛓️ DeFi Analytics Dashboard</h3> <div align="center"> <a href="https://github.com/mahammadaftab/project2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahammadaftab&repo=project2&theme=tokyonight&border_color=9D00FF&bg_color=0D1117" /> </a> <p><strong>Real-time Blockchain Data</strong> - Web3.js, Solidity, MERN Stack</p> <p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> </p> </div> </td> </tr> <tr> <td width="50%"> <h3 align="center">☁️ K8s MLOps Pipeline</h3> <div align="center"> <a href="https://github.com/mahammadaftab/project3"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahammadaftab&repo=project3&theme=tokyonight&border_color=00FFA3&bg_color=0D1117" /> </a> <p><strong>Scalable ML Deployment</strong> - Docker, K8s, AWS, Terraform</p> <p> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> </p> </div> </td> <td width="50%"> <h3 align="center">🤖 GenAI SaaS Platform</h3> <div align="center"> <a href="https://github.com/mahammadaftab/project4"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahammadaftab&repo=project4&theme=tokyonight&border_color=FF6B00&bg_color=0D1117" /> </a> <p><strong>Full Stack AI App</strong> - Next.js, OpenAI, MongoDB, Stripe</p> <p> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> </p> </div> </td> </tr> </table> </div> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"> <h2 align="center">🎯 25. AI/ML | BLOCKCHAIN | CLOUD DOMAINS 🎯</h2> <div align="center"> <table> <tr> <td align="center" width="33%"> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"> <br><strong>🤖 Generative AI</strong> <br>LLMs • RAG • Agents • Fine-tuning <br>LangChain • LlamaIndex • Vector DBs <br>OpenAI • Anthropic • Mistral • Gemini </td> <td align="center" width="33%"> <img src="https://user-images.githubusercontent.com/74038190/212257465-5959fe69-1644-4964-bc63-6acb19257c87.gif" width="100"> <br><strong>⛓️ Blockchain</strong> <br>Smart Contracts • DeFi • NFTs • DAOs <br>Solidity • Hardhat • Web3.js • Ethers.js <br>Ethereum • Polygon • IPFS </td> <td align="center" width="33%"> <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"> <br><strong>☁️ Cloud Native</strong> <br>AWS • Docker • K8s • CI/CD <br>Terraform • Serverless • Microservices <br>Lambda • S3 • EC2 • EKS </td> </tr> </table> </div> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"> <h2 align="center">🎓 24. ACHIEVEMENTS & CERTIFICATIONS 🎓</h2> <div align="center">
+</td>
 
-</div> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"> <h2 align="center">🗺️ 22. 2026 ROADMAP 🗺️</h2> <div align="center">
+</tr>
+</table>
 
-</div> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"> <h2 align="center">🎵 18. SPOTIFY | DISCORD | PORTFOLIO 🎵</h2> <div align="center"> <a href="https://open.spotify.com/user/your-spotify"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=your-spotify&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=true&bar_color=00F5FF&bar_color_cover=true" /> </a> </div> <div align="center"> <a href="https://discord.com/users/your-discord-id"> <img src="https://lanyard.cnrad.dev/api/1234567890?theme=dark&bg=0D1117&animated=true&borderRadius=10px&idleMessage=Building%20the%20future..." /> </a> </div> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"> <h2 align="center">💬 21. CODING QUOTE 💬</h2> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Any%20AI%20smart%20enough%20to%20pass%20a%20Turing%20test%20is%20smart%20enough%20to%20know%20to%20fail%20it&author=Ian%20McDonald" />
+</div>
+
+---
+
+# 🚀 ABOUT ME
+
+<div align="center">
+
+🔭 Currently building **AI Applications & Full Stack Platforms**
+
+🌱 Learning **Advanced Generative AI + Cloud Native Architecture**
+
+💬 Ask me about **MERN Stack, AI, Docker, Kubernetes, Blockchain**
+
+⚡ Goal: **Become World-Class AI Engineer**
+
+</div>
+
+---
+
+# 🛠️ TECH STACK
+
+<div align="center">
+
+## 🤖 AI / ML / GENERATIVE AI
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
+
 <br><br>
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=00F5FF&qColor=9D00FF&aColor=00FFA3" alt="Jokes Card" /> </div> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"> <h2 align="center">🤝 19. SUPPORT & CONTACT 🤝</h2> <div align="center">
-Let's build the future together! Open to collaborations, freelance, and full-time roles.
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
-<p> <a href="https://www.buymeacoffee.com/yourusername"> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /> </a> <a href="https://ko-fi.com/yourusername"> <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /> </a> <a href="mailto:your.email@gmail.com"> <img src="https://img.shields.io/badge/Hire_Me-00F5FF?style=for-the-badge&logo=gmail&logoColor=black" /> </a> </p> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"> </div> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"> <h2 align="center">🐍 20. VISITOR SNAKE ANIMATION 🐍</h2> <div align="center"> <img src="https://raw.githubusercontent.com/mahammadaftab/mahammadaftab/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div> <!-- 26. DARK-THEMED CYBERPUNK/FUTURISTIC + 27. CENTER ALIGNMENT + 28. GIFS --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D00FF,50:00F5FF,100:00FFA3&height=120&section=footer" width="100%"/> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+connect+and+build+amazing+things;Always+open+to+interesting+conversations!" alt="Thanks" /> </div> <!-- ========================== END OF README ========================== -->
+---
+
+## 🌐 FULL STACK DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,redux,tailwind,typescript,javascript&theme=dark" />
+
+---
+
+## ☁️ CLOUD & DEVOPS
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,nginx,grafana,prometheus&theme=dark" />
+
+---
+
+## ⛓️ BLOCKCHAIN & WEB3
+
+<img src="https://skillicons.dev/icons?i=solidity,ethereum,ipfs&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+
+---
+
+## 🔧 TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,bash,vim&theme=dark" />
+
+</div>
+
+---
+
+# 📈 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadaftab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=mahammadaftab&theme=tokyonight&hide_border=true&background=0D1117"
+/>
+
+</div>
+
+---
+
+# 📊 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahammadaftab&bg_color=0D1117&color=00F5FF&line=9D00FF&point=00FFA3&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahammadaftab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+
+</div>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🤖 AI SaaS Platform</h3>
+
+<a href="https://github.com/mahammadaftab/project1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahammadaftab&repo=project1&theme=tokyonight" />
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">⛓️ Blockchain Dashboard</h3>
+
+<a href="https://github.com/mahammadaftab/project2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahammadaftab&repo=project2&theme=tokyonight" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">☁️ DevOps Pipeline</h3>
+
+<a href="https://github.com/mahammadaftab/project3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahammadaftab&repo=project3&theme=tokyonight" />
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🧠 GenAI Application</h3>
+
+<a href="https://github.com/mahammadaftab/project4">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahammadaftab&repo=project4&theme=tokyonight" />
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mahammadaftab/mahammadaftab/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🎯 2026 GOALS
+
+<div align="center">
+
+✅ Master Generative AI
+
+✅ Build Scalable SaaS Products
+
+✅ Become Advanced Cloud Engineer
+
+✅ Learn Advanced Kubernetes
+
+✅ Build Open Source AI Projects
+
+✅ Grow Developer Community
+
+</div>
+
+---
+
+# 🎵 SPOTIFY STATUS
+
+<div align="center">
+
+<a href="https://open.spotify.com">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yourspotifyid&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false" />
+</a>
+
+</div>
+
+---
+
+# 💬 RANDOM DEV QUOTE
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🤝 SUPPORT
+
+<div align="center">
+
+### ⭐ If you like my work, give a star to my repositories!
+
+<a href="https://www.buymeacoffee.com/yourusername">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+
+<a href="https://ko-fi.com/yourusername">
+<img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D00FF,50:00F5FF,100:00FFA3&height=120&section=footer"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing!;Always+learning+new+things+🚀" />
+
+</div>
+
+<!-- ========================== END ========================== -->
