@@ -2,59 +2,56 @@
   README.md - Premium Cyberpunk GitHub Profile for
   Mahammad Aftab (mahammadaftab)
   Theme: Dark / Neon / Futuristic / Cyberpunk
-  NOTE: This file uses advanced HTML + CSS inside Markdown for a premium look.
+  NOTE: Paste this entire file into your GitHub profile README.
 -->
 
 <div align="center">
 
 <!-- =========================
-     Futuristic Neon Banner
+     Styles: Dark Cyberpunk Theme
      ========================= -->
 <style>
   :root{
-    --bg:#0b0f14;
+    --bg:#05060a;
     --panel:#071018;
     --neon-cyan:#00f0ff;
     --neon-pink:#ff2dcb;
     --neon-purple:#8a2be2;
-    --muted:#9aa7b2;
-    --glass: rgba(255,255,255,0.03);
+    --muted:#8fa6b3;
+    --glass: rgba(255,255,255,0.02);
     --accent: linear-gradient(90deg,var(--neon-cyan),var(--neon-pink));
-    --glass-border: rgba(255,255,255,0.04);
-    --glass-glow: 0 6px 30px rgba(0,240,255,0.04), inset 0 1px 0 rgba(255,255,255,0.02);
-    font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    font-family: Inter, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Fira Code", monospace;
   }
-  .readme-body{
-    background: radial-gradient(1200px 600px at 10% 10%, rgba(138,43,226,0.06), transparent 6%),
-                radial-gradient(1000px 500px at 90% 90%, rgba(0,240,255,0.03), transparent 6%),
+  .readme {
+    background: radial-gradient(800px 300px at 10% 10%, rgba(138,43,226,0.04), transparent 6%),
+                radial-gradient(700px 250px at 90% 90%, rgba(0,240,255,0.03), transparent 6%),
                 var(--bg);
-    color: #cfeefb;
-    padding: 36px 18px;
+    color: #dff9ff;
+    padding: 28px;
     border-radius: 14px;
     max-width: 1100px;
     margin: 28px auto;
-    box-shadow: 0 10px 60px rgba(0,0,0,0.6);
+    box-shadow: 0 18px 80px rgba(0,0,0,0.7);
     border: 1px solid rgba(255,255,255,0.02);
   }
-  .banner{
-    width:100%;
-    border-radius:12px;
-    padding:28px;
-    background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
-    border: 1px solid var(--glass-border);
-    box-shadow: var(--glass-glow);
+  .banner {
     display:flex;
-    gap:20px;
+    gap:18px;
     align-items:center;
     justify-content:space-between;
+    padding:20px;
+    border-radius:12px;
+    background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.005));
+    border: 1px solid rgba(255,255,255,0.02);
+    box-shadow: 0 10px 40px rgba(0,0,0,0.6);
     flex-wrap:wrap;
   }
-  .avatar-wrap{
+  .left {
     display:flex;
     gap:16px;
     align-items:center;
   }
-  .avatar{
+  .avatar {
     width:120px;
     height:120px;
     border-radius:16px;
@@ -63,386 +60,191 @@
     display:flex;
     align-items:center;
     justify-content:center;
-    font-weight:700;
+    font-weight:800;
     color:var(--neon-cyan);
-    font-size:28px;
+    font-size:34px;
     letter-spacing:1px;
     box-shadow: 0 8px 30px rgba(0,0,0,0.6), 0 0 18px rgba(0,240,255,0.03);
   }
-  .title{
+  .title {
     text-align:left;
-    max-width:720px;
+    min-width:320px;
   }
-  .name{
+  .name {
     font-size:28px;
-    font-weight:800;
-    color: #e6faff;
-    letter-spacing:0.6px;
-    margin-bottom:6px;
+    font-weight:900;
+    color:#e9fbff;
     display:flex;
     gap:12px;
     align-items:center;
   }
-  .neon-tag{
-    padding:6px 10px;
-    border-radius:999px;
-    background: linear-gradient(90deg, rgba(0,240,255,0.06), rgba(255,45,203,0.04));
-    color:var(--neon-cyan);
-    font-weight:700;
-    font-size:12px;
-    border:1px solid rgba(0,240,255,0.06);
-    box-shadow: 0 6px 30px rgba(0,240,255,0.02);
-  }
-  .role{
-    color:var(--muted);
-    font-size:14px;
-    margin-bottom:8px;
-  }
-  .meta{
-    display:flex;
-    gap:12px;
-    align-items:center;
+  .role {
     color:var(--muted);
     font-size:13px;
+    margin-top:6px;
+  }
+  .meta {
+    display:flex;
+    gap:10px;
+    margin-top:10px;
+    color:var(--muted);
+    font-size:13px;
+    flex-wrap:wrap;
   }
 
   /* Typing animation */
-  .type-wrap{
-    display:flex;
-    gap:12px;
-    align-items:center;
-    margin-top:10px;
-  }
   .type {
     font-family: "Fira Code", monospace;
-    color: #bfefff;
+    color:#bfefff;
     font-weight:700;
-    font-size:15px;
-    letter-spacing:0.6px;
+    font-size:14px;
+    letter-spacing:0.4px;
   }
   .cursor {
+    display:inline-block;
     width:10px;
-    height:20px;
+    height:18px;
     background:var(--neon-cyan);
-    margin-left:6px;
+    margin-left:8px;
     border-radius:2px;
     animation: blink 1s steps(2, start) infinite;
     box-shadow: 0 0 12px rgba(0,240,255,0.6);
+    vertical-align:middle;
   }
   @keyframes blink { 50% { opacity:0 } }
 
-  /* Section dividers */
-  .divider{
-    width:100%;
-    height:1px;
-    margin:20px 0;
-    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.03), transparent);
-  }
-
-  /* Neon headings */
-  h2.neon{
-    font-size:18px;
-    color:#e9faff;
-    letter-spacing:1px;
-    margin:8px 0 12px 0;
-    display:inline-block;
-    padding:8px 14px;
-    border-radius:8px;
-    background: linear-gradient(90deg, rgba(138,43,226,0.03), rgba(0,240,255,0.02));
-    border:1px solid rgba(255,255,255,0.02);
-    box-shadow: 0 6px 30px rgba(138,43,226,0.02);
-  }
-
-  /* Panels */
-  .panel{
-    background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.005));
-    border:1px solid var(--glass-border);
-    border-radius:12px;
-    padding:18px;
-    box-shadow: var(--glass-glow);
-  }
-
-  /* Grid */
-  .grid{
-    display:grid;
-    grid-template-columns: 1fr 380px;
-    gap:18px;
-    align-items:start;
-  }
-  @media (max-width:980px){
-    .grid{ grid-template-columns: 1fr; }
-    .avatar{ width:96px; height:96px; font-size:22px; }
-  }
-
-  /* Social icons row */
-  .socials{
-    display:flex;
-    gap:10px;
-    align-items:center;
-    margin-top:12px;
-  }
-  .socials a{
-    display:inline-flex;
-    align-items:center;
-    justify-content:center;
-    width:44px;
-    height:44px;
-    border-radius:10px;
-    color:var(--neon-cyan);
-    text-decoration:none;
-    border:1px solid rgba(255,255,255,0.02);
-    background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.005));
-    transition: transform .18s ease, box-shadow .18s ease;
-  }
-  .socials a:hover{ transform: translateY(-4px); box-shadow: 0 10px 30px rgba(0,0,0,0.6); }
-
-  /* Tech stack animated chips */
-  .tech-row{
-    display:flex;
-    gap:8px;
-    flex-wrap:wrap;
-    margin-top:12px;
-  }
-  .chip{
-    padding:8px 12px;
-    border-radius:999px;
-    font-weight:700;
-    font-size:13px;
-    color:#e9fbff;
-    background: linear-gradient(90deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
-    border:1px solid rgba(255,255,255,0.02);
-    box-shadow: 0 6px 20px rgba(0,0,0,0.5);
-    transform: translateY(0);
-    transition: transform .18s ease;
-  }
-  .chip:hover{ transform: translateY(-6px); }
-
-  /* Skill bars */
-  .skill{
-    margin:10px 0;
-  }
-  .skill .label{
-    display:flex;
-    justify-content:space-between;
-    font-size:13px;
-    color:var(--muted);
-    margin-bottom:6px;
-  }
-  .bar{
-    height:12px;
-    background: rgba(255,255,255,0.02);
-    border-radius:999px;
-    overflow:hidden;
-    border:1px solid rgba(255,255,255,0.02);
-  }
-  .bar > i{
-    display:block;
-    height:100%;
-    background: linear-gradient(90deg,var(--neon-cyan),var(--neon-pink));
-    box-shadow: 0 6px 30px rgba(0,240,255,0.04);
-    border-radius:999px;
-    transition: width 1.2s cubic-bezier(.2,.9,.2,1);
-  }
-
-  /* Projects grid */
-  .projects{
-    display:grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap:12px;
-  }
-  @media (max-width:980px){ .projects{ grid-template-columns: 1fr; } }
-  .project-card{
-    padding:14px;
-    border-radius:12px;
-    border:1px solid rgba(255,255,255,0.02);
-    background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.005));
-    transition: transform .18s ease;
-  }
-  .project-card:hover{ transform: translateY(-6px); box-shadow: 0 20px 60px rgba(0,0,0,0.6); }
-
-  /* Footer small */
-  .muted-small{ color:var(--muted); font-size:13px; }
-
-  /* Snake visitor animation */
-  .snake-wrap{
-    margin-top:18px;
-    width:100%;
-    height:80px;
-    border-radius:10px;
-    overflow:hidden;
-    position:relative;
-    border:1px solid rgba(255,255,255,0.02);
-    background: linear-gradient(90deg, rgba(0,0,0,0.02), rgba(255,255,255,0.005));
-  }
-  .snake{
-    position:absolute;
-    top:50%;
-    left:-20%;
-    transform:translateY(-50%);
-    width:20%;
-    height:8px;
-    background: linear-gradient(90deg,var(--neon-cyan),var(--neon-pink));
-    border-radius:999px;
-    box-shadow: 0 8px 30px rgba(0,240,255,0.06);
-    animation: snake 6s linear infinite;
-  }
-  @keyframes snake{
-    0%{ left:-20%; width:20%; }
-    25%{ left:20%; width:12%; }
-    50%{ left:60%; width:28%; }
-    75%{ left:90%; width:10%; }
-    100%{ left:120%; width:20%; }
-  }
-
-  /* Quote */
-  .quote{
-    font-family: "Fira Code", monospace;
-    color:#bfefff;
-    font-size:14px;
-    padding:12px;
-    border-radius:8px;
-    background: linear-gradient(90deg, rgba(0,240,255,0.02), rgba(138,43,226,0.02));
-    border:1px solid rgba(255,255,255,0.02);
-  }
-
-  /* Roadmap list */
-  .roadmap{
-    display:flex;
-    flex-direction:column;
-    gap:10px;
-  }
-  .roadmap-item{
-    display:flex;
-    gap:12px;
-    align-items:flex-start;
-  }
-  .dot{
-    width:12px;
-    height:12px;
-    border-radius:999px;
-    background:var(--neon-pink);
-    box-shadow: 0 6px 20px rgba(255,45,203,0.06);
-    margin-top:6px;
-  }
-
-  /* badges row (inline SVG badges) */
-  .badges{
-    display:flex;
-    gap:8px;
-    flex-wrap:wrap;
-    margin-top:12px;
-  }
-  .badge{
-    display:inline-flex;
-    align-items:center;
-    gap:8px;
+  .badges { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+  .badge {
     padding:6px 10px;
     border-radius:999px;
-    background: rgba(255,255,255,0.01);
+    background: linear-gradient(90deg, rgba(255,255,255,0.01), rgba(255,255,255,0.005));
     border:1px solid rgba(255,255,255,0.02);
     color:#dff9ff;
     font-weight:700;
     font-size:12px;
   }
 
-  /* trophies / stats placeholders */
-  .stats-grid{
-    display:grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap:12px;
+  .divider { height:1px; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.03), transparent); margin:18px 0; }
+
+  .grid { display:grid; grid-template-columns: 1fr 380px; gap:18px; align-items:start; }
+  @media (max-width:980px){ .grid{ grid-template-columns: 1fr; } .avatar{ width:96px; height:96px; font-size:26px; } }
+
+  .panel {
+    background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.005));
+    border-radius:12px;
+    padding:16px;
+    border:1px solid rgba(255,255,255,0.02);
+    box-shadow: 0 10px 40px rgba(0,0,0,0.6);
   }
+
+  h2.neon {
+    font-size:16px;
+    color:#e9faff;
+    letter-spacing:1px;
+    margin:6px 0 12px 0;
+    display:inline-block;
+    padding:8px 12px;
+    border-radius:8px;
+    background: linear-gradient(90deg, rgba(138,43,226,0.03), rgba(0,240,255,0.02));
+    border:1px solid rgba(255,255,255,0.02);
+  }
+
+  .tech-row { display:flex; gap:8px; flex-wrap:wrap; margin-top:8px; }
+  .chip {
+    padding:8px 12px;
+    border-radius:999px;
+    font-weight:800;
+    font-size:13px;
+    color:#e9fbff;
+    background: linear-gradient(90deg, rgba(255,255,255,0.01), rgba(255,255,255,0.005));
+    border:1px solid rgba(255,255,255,0.02);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.6);
+    transition: transform .18s ease;
+  }
+  .chip:hover{ transform: translateY(-6px); }
+
+  .skill { margin:10px 0; }
+  .skill .label { display:flex; justify-content:space-between; font-size:13px; color:var(--muted); margin-bottom:6px; }
+  .bar { height:12px; background: rgba(255,255,255,0.02); border-radius:999px; overflow:hidden; border:1px solid rgba(255,255,255,0.02); }
+  .bar > i { display:block; height:100%; background: linear-gradient(90deg,var(--neon-cyan),var(--neon-pink)); border-radius:999px; transition: width 1.2s cubic-bezier(.2,.9,.2,1); }
+
+  .projects { display:grid; grid-template-columns: repeat(2, 1fr); gap:12px; }
+  @media (max-width:980px){ .projects{ grid-template-columns: 1fr; } }
+  .project-card { padding:12px; border-radius:12px; transition: transform .18s ease; }
+  .project-card:hover{ transform: translateY(-6px); box-shadow: 0 20px 60px rgba(0,0,0,0.6); }
+
+  .stats-grid { display:grid; grid-template-columns: 1fr 1fr; gap:12px; }
   @media (max-width:980px){ .stats-grid{ grid-template-columns: 1fr; } }
 
-  /* small link style */
-  a.link{
-    color:var(--neon-cyan);
-    text-decoration:none;
-    font-weight:700;
-  }
-  a.link:hover{ text-decoration:underline; }
+  .snake-wrap { margin-top:12px; width:100%; height:70px; border-radius:10px; overflow:hidden; position:relative; border:1px solid rgba(255,255,255,0.02); background: linear-gradient(90deg, rgba(0,0,0,0.02), rgba(255,255,255,0.005)); }
+  .snake { position:absolute; top:50%; left:-20%; transform:translateY(-50%); width:20%; height:8px; background: linear-gradient(90deg,var(--neon-cyan),var(--neon-pink)); border-radius:999px; box-shadow: 0 8px 30px rgba(0,240,255,0.06); animation: snake 6s linear infinite; }
+  @keyframes snake{ 0%{ left:-20%; width:20%; } 25%{ left:20%; width:12%; } 50%{ left:60%; width:28%; } 75%{ left:90%; width:10%; } 100%{ left:120%; width:20%; } }
 
+  .quote { font-family: "Fira Code", monospace; color:#bfefff; font-size:14px; padding:12px; border-radius:8px; background: linear-gradient(90deg, rgba(0,240,255,0.02), rgba(138,43,226,0.02)); border:1px solid rgba(255,255,255,0.02); }
+
+  .muted { color:var(--muted); font-size:13px; }
+  a.link { color:var(--neon-cyan); text-decoration:none; font-weight:800; }
+  a.link:hover { text-decoration:underline; }
+
+  /* Responsive small tweaks */
+  @media (max-width:640px){
+    .name{ font-size:20px; }
+    .role{ font-size:12px; }
+  }
 </style>
 
-<div class="readme-body">
+<div class="readme">
 
+  <!-- =========================
+       Header / Banner
+       ========================= -->
   <div class="banner">
-    <div class="avatar-wrap">
-      <div class="avatar" aria-hidden="true">MA</div>
+    <div class="left">
+      <div class="avatar">MA</div>
       <div class="title">
-        <div class="name">
-          <span>Mahammad Aftab</span>
-          <span class="neon-tag">AI Engineer • Full Stack</span>
+        <div class="name">Mahammad Aftab <span style="font-size:12px;color:var(--neon-pink);padding:6px 10px;border-radius:999px;background:rgba(255,45,203,0.04);font-weight:800;">AI Engineer • Full Stack</span></div>
+        <div class="role">AI Engineer | Full Stack Developer | Generative AI Enthusiast — India</div>
+
+        <div style="margin-top:10px;display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
+          <div class="type" id="type-text">Designing production-grade AI systems • MERN • Cloud-native</div>
+          <div class="cursor" aria-hidden="true"></div>
         </div>
-        <div class="role">AI Engineer | Full Stack Developer | Generative AI Enthusiast</div>
+
         <div class="meta">
           <div>📍 India</div>
           <div>💼 Senior • MERN • Python • ML</div>
           <div>🔗 <a class="link" href="https://mahammadaftab.github.io" target="_blank">Portfolio</a></div>
         </div>
 
-        <div class="type-wrap" style="margin-top:10px;">
-          <div class="type" id="type-text">Building intelligent systems • Shipping production-grade ML & full-stack apps</div>
-          <div class="cursor" aria-hidden="true"></div>
+        <div style="margin-top:12px;" class="badges">
+          <!-- Shields.io badges -->
+          <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00f0ff?style=for-the-badge&logo=github" alt="Open to work" />
+          <img src="https://img.shields.io/badge/Top%20Tech-MERN-%2300f0ff?style=for-the-badge&logo=react" alt="MERN" />
+          <img src="https://img.shields.io/badge/AI-Generative-%23ff2dcb?style=for-the-badge&logo=python" alt="Generative AI" />
+          <img src="https://img.shields.io/badge/Cloud-AWS-%238a2be2?style=for-the-badge&logo=amazon-aws" alt="AWS" />
         </div>
-
-        <div class="socials" style="margin-top:12px;">
-          <!-- Inline SVG icons for socials -->
-          <a href="https://github.com/mahammadaftab" target="_blank" title="GitHub" aria-label="GitHub">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" style="color:var(--neon-cyan)">
-              <path d="M12 .5C5.73.5.75 5.48.75 11.75c0 4.96 3.22 9.16 7.69 10.64.56.1.76-.24.76-.53 0-.26-.01-1.12-.02-2.03-3.13.68-3.79-1.51-3.79-1.51-.51-1.3-1.25-1.65-1.25-1.65-1.02-.7.08-.69.08-.69 1.13.08 1.73 1.16 1.73 1.16 1 .17 1.56-.76 1.56-.76.98-1.67 2.57-1.19 3.2-.91.1-.71.39-1.19.71-1.46-2.5-.28-5.13-1.25-5.13-5.56 0-1.23.44-2.24 1.16-3.03-.12-.28-.5-1.4.11-2.92 0 0 .95-.3 3.12 1.16.9-.25 1.86-.38 2.82-.38.96 0 1.92.13 2.82.38 2.17-1.46 3.12-1.16 3.12-1.16.61 1.52.23 2.64.11 2.92.72.79 1.16 1.8 1.16 3.03 0 4.32-2.64 5.28-5.15 5.55.4.35.76 1.05.76 2.12 0 1.53-.01 2.76-.01 3.14 0 .29.2.64.77.53C19.03 20.9 22.25 16.7 22.25 11.75 22.25 5.48 17.27.5 11 .5z" fill="currentColor"/>
-            </svg>
-          </a>
-
-          <a href="https://www.linkedin.com/in/mahammadaftab" target="_blank" title="LinkedIn" aria-label="LinkedIn">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" style="color:var(--neon-pink)">
-              <path d="M4.98 3.5C4.98 4.88 3.86 6 2.48 6S0 4.88 0 3.5 1.12 1 2.5 1 4.98 2.12 4.98 3.5zM.24 8.5h4.48V24H.24zM8.5 8.5h4.3v2.12h.06c.6-1.14 2.06-2.34 4.24-2.34 4.54 0 5.38 2.98 5.38 6.86V24h-4.48v-7.5c0-1.79-.03-4.1-2.5-4.1-2.5 0-2.88 1.95-2.88 3.98V24H8.5z" fill="currentColor"/>
-            </svg>
-          </a>
-
-          <a href="https://twitter.com/mahammadaftab" target="_blank" title="Twitter" aria-label="Twitter">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" style="color:var(--neon-cyan)">
-              <path d="M22.46 6c-.77.35-1.6.58-2.46.69a4.3 4.3 0 0 0 1.88-2.37 8.59 8.59 0 0 1-2.72 1.04 4.28 4.28 0 0 0-7.3 3.9A12.14 12.14 0 0 1 3.16 4.6a4.28 4.28 0 0 0 1.33 5.72 4.24 4.24 0 0 1-1.94-.54v.05a4.28 4.28 0 0 0 3.43 4.2 4.3 4.3 0 0 1-1.93.07 4.28 4.28 0 0 0 4 2.97A8.6 8.6 0 0 1 2 19.54a12.13 12.13 0 0 0 6.56 1.92c7.88 0 12.2-6.53 12.2-12.2 0-.19 0-.39-.01-.58A8.7 8.7 0 0 0 22.46 6z" fill="currentColor"/>
-            </svg>
-          </a>
-
-          <a href="mailto:mahammad@aftab.dev" target="_blank" title="Email" aria-label="Email">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" style="color:var(--neon-purple)">
-              <path d="M12 13.065L.75 5.25V18a2 2 0 0 0 2 2h18.5a2 2 0 0 0 2-2V5.25L12 13.065zM12 11L23.25 3H.75L12 11z" fill="currentColor"/>
-            </svg>
-          </a>
-
-          <a href="https://discord.gg/yourserver" target="_blank" title="Discord" aria-label="Discord">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" style="color:var(--neon-cyan)">
-              <path d="M20.317 4.369A19.791 19.791 0 0 0 16.5 3.2a13.4 13.4 0 0 0-.7 1.5 17.9 17.9 0 0 0-5.6 0 13.4 13.4 0 0 0-.7-1.5 19.8 19.8 0 0 0-3.817 1.169C3.5 9.2 2.5 14.2 3.2 19.1a19.9 19.9 0 0 0 6.1 3.1c.5-.7.9-1.4 1.3-2.1-2.1-.6-3.6-1.6-4.1-2.1.3-.2.6-.4.9-.6 1.8 1 4.1 1.6 6.6 1.6 2.5 0 4.8-.6 6.6-1.6.3.2.6.4.9.6-.5.5-2 1.5-4.1 2.1.4.7.8 1.4 1.3 2.1a19.9 19.9 0 0 0 6.1-3.1c.7-4.9-.3-9.9-3.683-14.731z" fill="currentColor"/>
-            </svg>
-          </a>
-        </div>
-
       </div>
     </div>
 
-    <!-- Right column: quick badges & counters -->
     <div style="display:flex;flex-direction:column;align-items:flex-end;gap:12px;">
-      <div class="badges">
-        <div class="badge">⭐ Senior • AI Engineer</div>
-        <div class="badge">⚡ Generative AI • ML</div>
-        <div class="badge">☁️ Cloud • AWS • K8s</div>
+      <!-- Profile views counter -->
+      <div style="display:flex;gap:8px;align-items:center;">
+        <img src="https://komarev.com/ghpvc/?username=mahammadaftab&color=00f0ff" alt="Profile views" />
       </div>
 
-      <!-- Profile views counter (link to dynamic badge) -->
-      <div class="panel" style="padding:10px 14px;border-radius:10px;">
-        <div style="font-size:12px;color:var(--muted);">Profile Views</div>
-        <div style="font-weight:800;font-size:20px;color:var(--neon-cyan);margin-top:6px;"><!-- dynamic placeholder -->
-          <!-- Link to dynamic counter (click to open) -->
-          <a class="link" href="https://komarev.com/ghpvc/?username=mahammadaftab" target="_blank">View live counter</a>
-        </div>
+      <!-- Dynamic GitHub cards (click to view live) -->
+      <div style="display:flex;gap:8px;flex-direction:column;align-items:flex-end;">
+        <a class="link" href="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=dark" target="_blank">Live GitHub Stats</a>
+        <a class="link" href="https://github-readme-streak-stats.herokuapp.com/?user=mahammadaftab&theme=dark" target="_blank">Streak Stats</a>
+        <a class="link" href="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadaftab&layout=compact&theme=dark" target="_blank">Top Languages</a>
       </div>
 
-      <!-- GitHub quick links -->
-      <div style="display:flex;gap:8px;">
-        <a class="link" href="https://github.com/mahammadaftab?tab=repositories" target="_blank">Repositories</a>
-        <span style="color:var(--muted)">•</span>
-        <a class="link" href="https://github.com/mahammadaftab?tab=projects" target="_blank">Projects</a>
+      <!-- Social icons -->
+      <div style="display:flex;gap:8px;margin-top:6px;">
+        <a href="https://github.com/mahammadaftab" target="_blank" title="GitHub"><img src="https://img.shields.io/badge/GitHub-@mahammadaftab-00f0ff?style=for-the-badge&logo=github" alt="GitHub" /></a>
+        <a href="https://www.linkedin.com/in/mahammadaftab" target="_blank" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Connect-8a2be2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://twitter.com/mahammadaftab" target="_blank" title="Twitter"><img src="https://img.shields.io/badge/Twitter-@mahammadaftab-00f0ff?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
+        <a href="mailto:mahammad@aftab.dev" title="Email"><img src="https://img.shields.io/badge/Email-Contact-ff2dcb?style=for-the-badge&logo=gmail" alt="Email" /></a>
       </div>
     </div>
   </div>
@@ -450,47 +252,46 @@
   <div class="divider"></div>
 
   <!-- =========================
-       Main Grid: Left (About, Tech, Projects)
-       Right (Stats, Trophies, Activity)
+       Main Grid
        ========================= -->
   <div class="grid">
 
-    <!-- LEFT COLUMN -->
+    <!-- LEFT: About, Tech, Projects -->
     <div>
 
       <!-- About Me -->
       <h2 class="neon">About Me</h2>
       <div class="panel">
         <p style="margin:0;color:#dff9ff;font-size:15px;">
-          I'm <strong>Mahammad Aftab</strong>, an AI Engineer and Full Stack Developer focused on building production-grade
-          generative AI systems, scalable MERN applications, and secure cloud-native platforms. I design ML pipelines,
-          deploy models to Kubernetes on AWS, and integrate blockchain primitives where decentralization adds value.
+          I'm <strong>Mahammad Aftab</strong>, an AI Engineer and Full Stack Developer building production-grade generative AI systems,
+          scalable MERN applications, and secure cloud-native platforms. I design ML pipelines, deploy models to Kubernetes on AWS,
+          and integrate blockchain primitives where decentralization adds value.
         </p>
 
         <div style="display:flex;gap:18px;margin-top:14px;flex-wrap:wrap;">
           <div style="min-width:220px;">
-            <div class="muted-small">Primary Focus</div>
+            <div class="muted">Primary Focus</div>
             <div style="font-weight:800;color:#e9fbff;margin-top:6px;">Generative AI • LLMs • Full-stack systems</div>
           </div>
           <div style="min-width:220px;">
-            <div class="muted-small">Experience</div>
+            <div class="muted">Experience</div>
             <div style="font-weight:800;color:#e9fbff;margin-top:6px;">5+ years building ML & web platforms</div>
           </div>
           <div style="min-width:220px;">
-            <div class="muted-small">Open to</div>
+            <div class="muted">Open to</div>
             <div style="font-weight:800;color:#e9fbff;margin-top:6px;">Senior roles, AI research engineering, contractor work</div>
           </div>
         </div>
 
         <div style="margin-top:14px;">
-          <div class="muted-small">Core strengths</div>
+          <div class="muted">Core strengths</div>
           <div class="tech-row" style="margin-top:8px;">
             <div class="chip">MERN</div>
             <div class="chip">Generative AI</div>
             <div class="chip">Python • PyTorch</div>
             <div class="chip">Docker • Kubernetes</div>
             <div class="chip">AWS • Terraform</div>
-            <div class="chip">Blockchain • Smart Contracts</div>
+            <div class="chip">Blockchain</div>
             <div class="chip">CI/CD • Observability</div>
           </div>
         </div>
@@ -498,12 +299,12 @@
 
       <div style="height:12px"></div>
 
-      <!-- Tech Stack (animated icons via CSS chips) -->
+      <!-- Tech Stack -->
       <h2 class="neon">Tech Stack</h2>
       <div class="panel">
-        <div style="display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;">
+        <div style="display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;">
           <div style="flex:1;min-width:260px;">
-            <div class="muted-small">Primary</div>
+            <div class="muted">Primary</div>
             <div class="tech-row" style="margin-top:8px;">
               <div class="chip">React</div>
               <div class="chip">Node.js</div>
@@ -514,7 +315,7 @@
             </div>
           </div>
           <div style="flex:1;min-width:260px;">
-            <div class="muted-small">Infrastructure</div>
+            <div class="muted">Infrastructure</div>
             <div class="tech-row" style="margin-top:8px;">
               <div class="chip">Docker</div>
               <div class="chip">Kubernetes</div>
@@ -525,20 +326,20 @@
           </div>
         </div>
 
-        <div style="margin-top:14px;">
-          <div class="muted-small">Emerging / Research</div>
+        <div style="margin-top:12px;">
+          <div class="muted">Emerging / Research</div>
           <div class="tech-row" style="margin-top:8px;">
             <div class="chip">LLMs • Fine-tuning</div>
             <div class="chip">Diffusion Models</div>
-            <div class="chip">Blockchain Integrations</div>
             <div class="chip">Federated Learning</div>
+            <div class="chip">On-chain Model Provenance</div>
           </div>
         </div>
       </div>
 
       <div style="height:12px"></div>
 
-      <!-- Skills with progress bars -->
+      <!-- Skills -->
       <h2 class="neon">Skills</h2>
       <div class="panel">
         <div class="skill">
@@ -561,7 +362,8 @@
           <div class="label"><span>Blockchain & Smart Contracts</span><span>72%</span></div>
           <div class="bar"><i style="width:72%"></i></div>
         </div>
-        <div style="margin-top:12px;" class="muted-small">I focus on production-readiness: observability, testing, CI/CD, and secure deployments.</div>
+
+        <div style="margin-top:12px;" class="muted">I focus on production-readiness: observability, testing, CI/CD, and secure deployments.</div>
       </div>
 
       <div style="height:12px"></div>
@@ -572,17 +374,17 @@
         <div class="project-card panel">
           <div style="display:flex;justify-content:space-between;align-items:start;">
             <div>
-              <div style="font-weight:800;font-size:15px;color:#e9fbff;">AstraAI • Generative Platform</div>
-              <div class="muted-small" style="margin-top:6px;">End-to-end generative AI platform: fine-tuning, inference, and deployment on K8s.</div>
+              <div style="font-weight:900;font-size:15px;color:#e9fbff;">AstraAI • Generative Platform</div>
+              <div class="muted" style="margin-top:6px;">End-to-end generative AI platform: fine-tuning, inference, and deployment on Kubernetes with autoscaling.</div>
             </div>
             <div style="text-align:right;">
-              <div class="muted-small">Tech</div>
+              <div class="muted">Tech</div>
               <div style="font-weight:800;color:var(--neon-cyan);margin-top:6px;">PyTorch • FastAPI • K8s</div>
             </div>
           </div>
           <div style="margin-top:12px;display:flex;gap:8px;">
             <a class="link" href="https://github.com/mahammadaftab/astraai" target="_blank">Repository</a>
-            <span style="color:var(--muted)">•</span>
+            <span class="muted">•</span>
             <a class="link" href="https://astraai.example.com" target="_blank">Live Demo</a>
           </div>
         </div>
@@ -590,17 +392,17 @@
         <div class="project-card panel">
           <div style="display:flex;justify-content:space-between;align-items:start;">
             <div>
-              <div style="font-weight:800;font-size:15px;color:#e9fbff;">NeonShop • Scalable MERN E‑commerce</div>
-              <div class="muted-small" style="margin-top:6px;">High-throughput storefront with server-side rendering and microservices.</div>
+              <div style="font-weight:900;font-size:15px;color:#e9fbff;">NeonShop • Scalable MERN E‑commerce</div>
+              <div class="muted" style="margin-top:6px;">High-throughput storefront with SSR, microservices, and observability.</div>
             </div>
             <div style="text-align:right;">
-              <div class="muted-small">Tech</div>
+              <div class="muted">Tech</div>
               <div style="font-weight:800;color:var(--neon-cyan);margin-top:6px;">React • Node • MongoDB • Docker</div>
             </div>
           </div>
           <div style="margin-top:12px;display:flex;gap:8px;">
             <a class="link" href="https://github.com/mahammadaftab/neonshop" target="_blank">Repository</a>
-            <span style="color:var(--muted)">•</span>
+            <span class="muted">•</span>
             <a class="link" href="https://neonshop.example.com" target="_blank">Live Demo</a>
           </div>
         </div>
@@ -608,17 +410,17 @@
         <div class="project-card panel">
           <div style="display:flex;justify-content:space-between;align-items:start;">
             <div>
-              <div style="font-weight:800;font-size:15px;color:#e9fbff;">ChainGuard • Smart Contract Auditor</div>
-              <div class="muted-small" style="margin-top:6px;">Automated security checks and fuzzing for Solidity contracts.</div>
+              <div style="font-weight:900;font-size:15px;color:#e9fbff;">ChainGuard • Smart Contract Auditor</div>
+              <div class="muted" style="margin-top:6px;">Automated security checks and fuzzing for Solidity contracts with CI integration.</div>
             </div>
             <div style="text-align:right;">
-              <div class="muted-small">Tech</div>
+              <div class="muted">Tech</div>
               <div style="font-weight:800;color:var(--neon-cyan);margin-top:6px;">Solidity • Python • Docker</div>
             </div>
           </div>
           <div style="margin-top:12px;display:flex;gap:8px;">
             <a class="link" href="https://github.com/mahammadaftab/chainguard" target="_blank">Repository</a>
-            <span style="color:var(--muted)">•</span>
+            <span class="muted">•</span>
             <a class="link" href="https://chainguard.example.com" target="_blank">Demo</a>
           </div>
         </div>
@@ -626,17 +428,17 @@
         <div class="project-card panel">
           <div style="display:flex;justify-content:space-between;align-items:start;">
             <div>
-              <div style="font-weight:800;font-size:15px;color:#e9fbff;">Realtime-ML • Streaming Inference</div>
-              <div class="muted-small" style="margin-top:6px;">Low-latency model serving with autoscaling and A/B experiments.</div>
+              <div style="font-weight:900;font-size:15px;color:#e9fbff;">Realtime-ML • Streaming Inference</div>
+              <div class="muted" style="margin-top:6px;">Low-latency model serving with autoscaling, A/B experiments, and observability.</div>
             </div>
             <div style="text-align:right;">
-              <div class="muted-small">Tech</div>
+              <div class="muted">Tech</div>
               <div style="font-weight:800;color:var(--neon-cyan);margin-top:6px;">Kafka • FastAPI • K8s</div>
             </div>
           </div>
           <div style="margin-top:12px;display:flex;gap:8px;">
             <a class="link" href="https://github.com/mahammadaftab/realtime-ml" target="_blank">Repository</a>
-            <span style="color:var(--muted)">•</span>
+            <span class="muted">•</span>
             <a class="link" href="https://realtime-ml.example.com" target="_blank">Demo</a>
           </div>
         </div>
@@ -644,7 +446,7 @@
 
       <div style="height:12px"></div>
 
-      <!-- Achievements & Certifications -->
+      <!-- Achievements -->
       <h2 class="neon">Achievements & Certifications</h2>
       <div class="panel">
         <ul style="margin:0 0 0 18px;padding:0;color:#dff9ff;">
@@ -660,50 +462,52 @@
 
       <!-- Roadmap -->
       <h2 class="neon">Roadmap</h2>
-      <div class="panel roadmap">
-        <div class="roadmap-item">
-          <div class="dot" style="background:var(--neon-cyan)"></div>
-          <div>
-            <div style="font-weight:800;color:#e9fbff;">Q3 2026 — Productionize AstraAI</div>
-            <div class="muted-small">Scale inference, add multi-tenant orchestration, and enterprise integrations.</div>
+      <div class="panel">
+        <div style="display:flex;flex-direction:column;gap:10px;">
+          <div style="display:flex;gap:12px;align-items:flex-start;">
+            <div style="width:12px;height:12px;border-radius:999px;background:var(--neon-cyan);margin-top:6px;"></div>
+            <div>
+              <div style="font-weight:900;color:#e9fbff;">Q3 2026 — Productionize AstraAI</div>
+              <div class="muted">Scale inference, add multi-tenant orchestration, enterprise integrations.</div>
+            </div>
           </div>
-        </div>
 
-        <div class="roadmap-item">
-          <div class="dot" style="background:var(--neon-pink)"></div>
-          <div>
-            <div style="font-weight:800;color:#e9fbff;">Q4 2026 — Decentralized ML Marketplace</div>
-            <div class="muted-small">Integrate blockchain for model provenance and micropayments.</div>
+          <div style="display:flex;gap:12px;align-items:flex-start;">
+            <div style="width:12px;height:12px;border-radius:999px;background:var(--neon-pink);margin-top:6px;"></div>
+            <div>
+              <div style="font-weight:900;color:#e9fbff;">Q4 2026 — Decentralized ML Marketplace</div>
+              <div class="muted">Integrate blockchain for model provenance and micropayments.</div>
+            </div>
           </div>
-        </div>
 
-        <div class="roadmap-item">
-          <div class="dot" style="background:var(--neon-purple)"></div>
-          <div>
-            <div style="font-weight:800;color:#e9fbff;">2027 — Research: Federated & Privacy-preserving LLMs</div>
-            <div class="muted-small">Focus on privacy-first model training and deployment.</div>
+          <div style="display:flex;gap:12px;align-items:flex-start;">
+            <div style="width:12px;height:12px;border-radius:999px;background:var(--neon-purple);margin-top:6px;"></div>
+            <div>
+              <div style="font-weight:900;color:#e9fbff;">2027 — Research: Federated & Privacy-preserving LLMs</div>
+              <div class="muted">Privacy-first model training and deployment strategies.</div>
+            </div>
           </div>
         </div>
       </div>
 
       <div style="height:12px"></div>
 
-      <!-- Support / Contact -->
-      <h2 class="neon">Support / Contact</h2>
+      <!-- Contact / Support -->
+      <h2 class="neon">Support • Contact</h2>
       <div class="panel" style="display:flex;gap:12px;flex-wrap:wrap;align-items:center;">
-        <div style="flex:1;min-width:260px;">
-          <div style="font-weight:800;color:#e9fbff;">Hire / Collaborate / Contract</div>
-          <div class="muted-small" style="margin-top:6px;">Open to senior engineering roles, AI research engineering, and consulting.</div>
+        <div style="flex:1;min-width:220px;">
+          <div style="font-weight:900;color:#e9fbff;">Hire • Collaborate • Contract</div>
+          <div class="muted" style="margin-top:6px;">Open to senior engineering roles, AI research engineering, and consulting.</div>
         </div>
         <div style="min-width:220px;">
-          <div style="font-weight:700;color:var(--neon-cyan);">Email</div>
-          <div class="muted-small" style="margin-top:6px;">mahammad@aftab.dev</div>
+          <div style="font-weight:800;color:var(--neon-cyan);">Email</div>
+          <div class="muted" style="margin-top:6px;">mahammad@aftab.dev</div>
         </div>
       </div>
 
-      <div style="height:18px"></div>
+      <div style="height:12px"></div>
 
-      <!-- Coding Quote -->
+      <!-- Quote -->
       <h2 class="neon">Coding Quote</h2>
       <div class="panel quote">
         "Ship small, iterate fast, and let the data decide. Build systems that are observable, testable, and kind to users."
@@ -711,45 +515,43 @@
 
     </div>
 
-    <!-- RIGHT COLUMN -->
+    <!-- RIGHT: Stats, Trophies, Activity -->
     <div>
 
-      <!-- GitHub Stats (links to dynamic APIs; click to view live images) -->
-      <h2 class="neon">GitHub Stats & Activity</h2>
+      <!-- GitHub Stats -->
+      <h2 class="neon">GitHub Stats</h2>
       <div class="panel">
         <div class="stats-grid">
           <div style="padding:12px;border-radius:10px;background:rgba(255,255,255,0.01);border:1px solid rgba(255,255,255,0.02);">
-            <div style="font-weight:800;color:#e9fbff;">GitHub Stats</div>
-            <div class="muted-small" style="margin-top:8px;">Click to view live, dynamic cards</div>
+            <div style="font-weight:900;color:#e9fbff;">Dynamic Stats</div>
+            <div class="muted" style="margin-top:8px;">Live, embeddable SVGs (click to open)</div>
             <div style="margin-top:10px;display:flex;flex-direction:column;gap:8px;">
-              <a class="link" href="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=dark" target="_blank">View dynamic stats card</a>
+              <a class="link" href="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=dark" target="_blank">View stats card</a>
               <a class="link" href="https://github-readme-streak-stats.herokuapp.com/?user=mahammadaftab&theme=dark" target="_blank">View streak stats</a>
               <a class="link" href="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadaftab&layout=compact&theme=dark" target="_blank">Top languages</a>
             </div>
           </div>
 
           <div style="padding:12px;border-radius:10px;background:rgba(255,255,255,0.01);border:1px solid rgba(255,255,255,0.02);">
-            <div style="font-weight:800;color:#e9fbff;">Contribution Graph</div>
-            <div class="muted-small" style="margin-top:8px;">Live contributions & activity</div>
+            <div style="font-weight:900;color:#e9fbff;">Contribution Graph</div>
+            <div class="muted" style="margin-top:8px;">Click to view live contributions</div>
             <div style="margin-top:10px;">
               <a class="link" href="https://github.com/mahammadaftab" target="_blank">Open GitHub profile</a>
             </div>
           </div>
         </div>
 
-        <div style="margin-top:12px;" class="muted-small">
-          Note: For live, embeddable images use the GitHub Readme Stats APIs (links above). They provide dynamic SVGs for stats, streaks, and top languages.
-        </div>
+        <div style="margin-top:12px;" class="muted">Tip: Add the dynamic SVGs directly into this README using the GitHub Readme Stats endpoints for live visuals.</div>
       </div>
 
       <div style="height:12px"></div>
 
       <!-- Trophies & Activity -->
-      <h2 class="neon">Trophies & Activity</h2>
+      <h2 class="neon">Trophies • Activity</h2>
       <div class="panel">
         <div style="display:flex;flex-direction:column;gap:10px;">
-          <div style="font-weight:800;color:#e9fbff;">Trophies</div>
-          <div class="muted-small">Open-source contributions, challenge wins, and community recognition.</div>
+          <div style="font-weight:900;color:#e9fbff;">Trophies</div>
+          <div class="muted">Open-source contributions, challenge wins, and community recognition.</div>
 
           <div style="margin-top:8px;display:flex;gap:8px;flex-wrap:wrap;">
             <div class="badge">🏆 Open Source Contributor</div>
@@ -759,10 +561,10 @@
           </div>
 
           <div style="margin-top:12px;">
-            <div style="font-weight:800;color:#e9fbff;">Activity Graph</div>
-            <div class="muted-small" style="margin-top:6px;">For a live activity graph, click below</div>
+            <div style="font-weight:900;color:#e9fbff;">Activity Graph</div>
+            <div class="muted" style="margin-top:6px;">For live activity, view the GitHub profile or embed contribution SVGs.</div>
             <div style="margin-top:8px;">
-              <a class="link" href="https://github.com/mahammadaftab" target="_blank">View activity & contributions</a>
+              <a class="link" href="https://github.com/mahammadaftab" target="_blank">View activity</a>
             </div>
           </div>
         </div>
@@ -770,29 +572,23 @@
 
       <div style="height:12px"></div>
 
-      <!-- AI / ML / Blockchain / Cloud Sections -->
+      <!-- AI / ML / Blockchain / Cloud -->
       <h2 class="neon">AI • ML • Blockchain • Cloud</h2>
       <div class="panel">
         <div style="display:flex;flex-direction:column;gap:12px;">
           <div>
-            <div style="font-weight:800;color:#e9fbff;">Generative AI & ML</div>
-            <div class="muted-small" style="margin-top:6px;">
-              Architected LLM fine-tuning pipelines, built multimodal models, and deployed inference services with autoscaling.
-            </div>
+            <div style="font-weight:900;color:#e9fbff;">Generative AI & ML</div>
+            <div class="muted" style="margin-top:6px;">Architected LLM fine-tuning pipelines, built multimodal models, and deployed inference services with autoscaling.</div>
           </div>
 
           <div>
-            <div style="font-weight:800;color:#e9fbff;">Blockchain</div>
-            <div class="muted-small" style="margin-top:6px;">
-              Smart contract development, security audits, and integrating on-chain provenance for ML models and datasets.
-            </div>
+            <div style="font-weight:900;color:#e9fbff;">Blockchain</div>
+            <div class="muted" style="margin-top:6px;">Smart contract development, security audits, and integrating on-chain provenance for ML models and datasets.</div>
           </div>
 
           <div>
-            <div style="font-weight:800;color:#e9fbff;">Cloud & DevOps</div>
-            <div class="muted-small" style="margin-top:6px;">
-              Production deployments on AWS, Kubernetes orchestration, infra-as-code, and observability with Prometheus & Grafana.
-            </div>
+            <div style="font-weight:900;color:#e9fbff;">Cloud & DevOps</div>
+            <div class="muted" style="margin-top:6px;">Production deployments on AWS, Kubernetes orchestration, infra-as-code, and observability with Prometheus & Grafana.</div>
           </div>
         </div>
       </div>
@@ -804,20 +600,20 @@
       <div class="panel">
         <div style="display:flex;flex-direction:column;gap:10px;">
           <div>
-            <div style="font-weight:800;color:#e9fbff;">Spotify</div>
-            <div class="muted-small" style="margin-top:6px;">Curated playlists for deep work and ML research.</div>
+            <div style="font-weight:900;color:#e9fbff;">Spotify</div>
+            <div class="muted" style="margin-top:6px;">Curated playlists for deep work and ML research.</div>
             <div style="margin-top:8px;"><a class="link" href="https://open.spotify.com/user/yourprofile" target="_blank">Open Spotify</a></div>
           </div>
 
           <div>
-            <div style="font-weight:800;color:#e9fbff;">Discord</div>
-            <div class="muted-small" style="margin-top:6px;">Active in AI & DevOps communities — join the server for discussions.</div>
+            <div style="font-weight:900;color:#e9fbff;">Discord</div>
+            <div class="muted" style="margin-top:6px;">Active in AI & DevOps communities — join the server for discussions.</div>
             <div style="margin-top:8px;"><a class="link" href="https://discord.gg/yourserver" target="_blank">Join Discord</a></div>
           </div>
 
           <div>
-            <div style="font-weight:800;color:#e9fbff;">Portfolio</div>
-            <div class="muted-small" style="margin-top:6px;">Detailed case studies, architecture diagrams, and research notes.</div>
+            <div style="font-weight:900;color:#e9fbff;">Portfolio</div>
+            <div class="muted" style="margin-top:6px;">Detailed case studies, architecture diagrams, and research notes.</div>
             <div style="margin-top:8px;"><a class="link" href="https://mahammadaftab.github.io" target="_blank">Visit Portfolio</a></div>
           </div>
         </div>
@@ -836,11 +632,9 @@
 
   <div style="height:18px"></div>
 
-  <!-- =========================
-       Footer: Contact, Links, Legal
-       ========================= -->
+  <!-- Footer -->
   <div style="display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;align-items:center;">
-    <div class="muted-small">© <strong>Mahammad Aftab</strong> • AI Engineer • Full Stack Developer • India</div>
+    <div class="muted">© <strong>Mahammad Aftab</strong> • AI Engineer • Full Stack Developer • India</div>
     <div style="display:flex;gap:12px;align-items:center;">
       <a class="link" href="https://github.com/mahammadaftab" target="_blank">GitHub</a>
       <a class="link" href="https://www.linkedin.com/in/mahammadaftab" target="_blank">LinkedIn</a>
@@ -850,39 +644,37 @@
 
   <div style="height:12px"></div>
 
-  <!-- =========================
-       Extra: Dynamic badges (SVG-like inline badges)
-       ========================= -->
+  <!-- Inline dynamic badges -->
   <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;">
-    <div class="badge">👨‍💻 Open to work</div>
-    <div class="badge">🧠 LLMs • Generative</div>
-    <div class="badge">☁️ AWS • K8s</div>
-    <div class="badge">🛡️ Security-minded</div>
+    <img src="https://img.shields.io/badge/Stack-MERN%20%7C%20Python-00f0ff?style=flat-square&logo=react" alt="Stack" />
+    <img src="https://img.shields.io/badge/AI-Generative-ff2dcb?style=flat-square&logo=python" alt="AI" />
+    <img src="https://img.shields.io/badge/Cloud-AWS-8a2be2?style=flat-square&logo=amazon-aws" alt="AWS" />
+    <img src="https://img.shields.io/badge/Infra-Docker%20%7C%20K8s-00f0ff?style=flat-square&logo=docker" alt="Docker K8s" />
   </div>
 
 </div>
 
 <!-- =========================
-     Animated typing JS (pure CSS-like simulation)
+     Typing animation script
+     (Works on GitHub when JS is allowed in preview; GitHub strips scripts in README,
+     but this remains for local preview or other renderers that allow scripts.)
      ========================= -->
 <script>
-  // Simple typing rotation (no external libs)
   (function(){
     const phrases = [
-      "Building intelligent systems • Shipping production-grade ML & full-stack apps",
-      "MERN • Python • Generative AI • Cloud-native",
-      "Deploying models to Kubernetes • Observability-first",
-      "Blockchain integrations for model provenance"
+      "Designing production-grade AI systems • MERN • Cloud-native",
+      "Fine-tuning LLMs • Deploying scalable inference",
+      "Building secure, observable, and testable platforms",
+      "Integrating blockchain for model provenance"
     ];
     let idx = 0;
     const el = document.getElementById('type-text');
-    const cursor = document.querySelector('.cursor');
     function typePhrase(phrase, cb){
       el.textContent = '';
       let i=0;
       const t = setInterval(()=>{
         el.textContent += phrase[i++] || '';
-        if(i>phrase.length){ clearInterval(t); setTimeout(cb,1200); }
+        if(i>phrase.length){ clearInterval(t); setTimeout(cb,900); }
       }, 28);
     }
     function loop(){
@@ -894,19 +686,26 @@
 
 </div>
 
-</div>
+<!--
+  Quick embed examples (copy into README where you want live images):
 
-<!-- =========================
-     Notes for recruiters (hidden in HTML comment)
-     =========================
-     - GitHub username: mahammadaftab
-     - Name: Mahammad Aftab
-     - Role: AI Engineer | Full Stack Developer | Generative AI Enthusiast
-     - Location: India
-     - Tech: MERN, Python, React, Node.js, MongoDB, Express, Docker, Kubernetes, AWS, Blockchain, ML
-     - For live dynamic cards (stats, streaks, top langs) use:
-       https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=dark
-       https://github-readme-streak-stats.herokuapp.com/?user=mahammadaftab&theme=dark
-       https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadaftab&layout=compact&theme=dark
-     ========================= -->
+  GitHub Readme Stats:
+  ![Mahammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=dark)
 
+  Streak Stats:
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahammadaftab&theme=dark)
+
+  Top Languages:
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadaftab&layout=compact&theme=dark)
+
+  Contribution Graph (example service):
+  ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mahammadaftab&theme=react-dark&area=true)
+
+  Profile Views:
+  ![Profile Views](https://komarev.com/ghpvc/?username=mahammadaftab&color=00f0ff)
+
+  Notes:
+  - Replace example demo links with your real deployments.
+  - GitHub strips <script> tags and some inline styles in profile READMEs; the HTML/CSS here is optimized for renderers that allow it and for local preview. For pure GitHub compatibility, embed the dynamic SVG images (GitHub Readme Stats) and keep the HTML minimal.
+  - To maximize recruiter impact: include live stats images (above), polished project READMEs, and links to case studies in your portfolio.
+-->
