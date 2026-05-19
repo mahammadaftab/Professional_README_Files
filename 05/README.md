@@ -122,11 +122,18 @@
 
 ## 🚀 Animated Stack
 
+## 🚀 Animated Stack
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadaftab&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10" height="190" />
-<img src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="190" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadaftab&theme=tokyonight&hide_border=true&border_radius=12" height="190" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadaftab&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="180" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadaftab&theme=tokyonight&hide_border=true&border_radius=12" height="180" alt="GitHub Streak" />
+</p>
 
 </div>
 
@@ -178,27 +185,37 @@
 
 ## 🧪 Skill Progress
 
+## 🧪 Skill Progress
+
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
 
 ### Frontend
-- React.js <img src="https://progress-bar.dev/95/?title=React&width=260&color=00F5FF&suffix=%20" />
-- JavaScript <img src="https://progress-bar.dev/92/?title=JavaScript&width=260&color=8A2BE2&suffix=%20" />
-- UI/UX Engineering <img src="https://progress-bar.dev/90/?title=UI/UX&width=260&color=00FF9D&suffix=%20" />
-- Responsive Design <img src="https://progress-bar.dev/94/?title=Responsive&width=260&color=FF6B6B&suffix=%20" />
+- React.js  
+  <img src="https://progress-bar.dev/95/?title=React&width=260&color=00F5FF&suffix=%20" alt="React Progress" />
+- JavaScript  
+  <img src="https://progress-bar.dev/92/?title=JavaScript&width=260&color=8A2BE2&suffix=%20" alt="JavaScript Progress" />
+- UI/UX Engineering  
+  <img src="https://progress-bar.dev/90/?title=UI%2FUX&width=260&color=00FF9D&suffix=%20" alt="UI UX Progress" />
+- Responsive Design  
+  <img src="https://progress-bar.dev/94/?title=Responsive&width=260&color=FF6B6B&suffix=%20" alt="Responsive Design Progress" />
 
-</td>
-<td width="50%">
+    </td>
+    <td width="50%" valign="top">
 
 ### Backend / AI
-- Node.js <img src="https://progress-bar.dev/93/?title=Node.js&width=260&color=00F5FF&suffix=%20" />
-- Python <img src="https://progress-bar.dev/96/?title=Python&width=260&color=8A2BE2&suffix=%20" />
-- Generative AI <img src="https://progress-bar.dev/91/?title=GenAI&width=260&color=00FF9D&suffix=%20" />
-- DevOps / Cloud <img src="https://progress-bar.dev/88/?title=Cloud&width=260&color=FF6B6B&suffix=%20" />
+- Node.js  
+  <img src="https://progress-bar.dev/93/?title=Node.js&width=260&color=00F5FF&suffix=%20" alt="Node.js Progress" />
+- Python  
+  <img src="https://progress-bar.dev/96/?title=Python&width=260&color=8A2BE2&suffix=%20" alt="Python Progress" />
+- Generative AI  
+  <img src="https://progress-bar.dev/91/?title=GenAI&width=260&color=00FF9D&suffix=%20" alt="Generative AI Progress" />
+- DevOps / Cloud  
+  <img src="https://progress-bar.dev/88/?title=Cloud&width=260&color=FF6B6B&suffix=%20" alt="Cloud Progress" />
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---
