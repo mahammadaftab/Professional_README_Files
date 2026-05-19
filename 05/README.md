@@ -124,21 +124,12 @@
 
 <div align="center">
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true"
-    alt="Mahammad Aftab GitHub Stats"
-    height="180"
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadaftab&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&exclude_repo=" height="180" alt="Top Languages" />
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadaftab&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6&exclude_repo="
-    alt="Mahammad Aftab Top Languages"
-    height="180"
-  />
-</p>
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadaftab&theme=tokyonight&hide_border=true&border_radius=12" height="180" alt="GitHub Streak" />
 
 </div>
 
