@@ -179,7 +179,7 @@ Fun Fact:
 # 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/mahammadaftab?theme=dark&font=Nunito&ext=heatmap"/>
 </p>
 
 ---
