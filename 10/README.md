@@ -198,7 +198,7 @@ Fun Fact:
 
 <p align="center">
   <a href="https://holopin.io/">
-    <img src="https://holopin.io/api/user/board?user=YOUR_HOLOPIN_USERNAME"/>
+    <img src="https://holopin.io/api/user/board?user=mahammadaftab"/>
   </a>
 </p>
 
@@ -208,7 +208,7 @@ Fun Fact:
 
 <div align="center">
 
-<a href="https://buymeacoffee.com/YOUR_NAME">
+<a href="https://buymeacoffee.com/Mahammad Aftab">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/>
 </a>
 
